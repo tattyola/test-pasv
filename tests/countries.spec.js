@@ -1,5 +1,4 @@
 import { expect } from 'chai';
-import countriesHelper from '../helpers/countries.helper'
 import CountriesHelper from "../helpers/countries.helper";
 
 describe('country_codes', function() {
